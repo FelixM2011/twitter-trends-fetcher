@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "twitter-trends-fetcher"
+version = "1.0.0"
+description = "Hermes agent skill: fetch real-time Twitter trends via headless browser"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [{name = "Felix Morocutti"}]
